@@ -1,0 +1,19 @@
+.h1-m{
+    color: red;
+}
+
+.h2-s,h3{
+    color: #e8bd54;
+}
+
+
+.ola{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
